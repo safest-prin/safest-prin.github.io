@@ -1,0 +1,11 @@
+lsi: false
+safe: true
+#source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+remote_theme: peterdesmet/petridish@3.1
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
