@@ -10,3 +10,6 @@ posts_on_home: 2                        # Show x number of latest posts on homep
 archive_permalink: /news/               # Permalink of page using the archive.html layout, required when using post tags
 github_edit: true                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
 
+social:
+  email: name@example.com
+  twitter: twitter_username
