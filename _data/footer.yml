@@ -1,2 +1,20 @@
-The SAFEST project is funded by the European Union - Next Generation EU, Mission 4, Component 2, Investment 1.1, CUP F53D23004230006, under the National Recovery and Resilience Plan (NRRP) – Grant
-Assignment Decree No. 959 adopted on 30 June 2023 by the Italian Ministry of University and Research (MUR).
+# Footer content is organized in columns, with the first one reserved for social icons (defined in _config.yml).
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - description: Partners
+    links:
+    - text: Univerità di Bergamo - Angelo Gargantini
+#      href: http://example.com
+#      new_window: true
+    - text: Politecnico di Milano - Marcello Bersani
+#      href: http://example.com
+#      new_window: true
+    - text: Università di Milano - Elvinia Riccobene
+#      href: http://example.com
+#      new_window: true
+
+  - description: > # E.g. funding acknowledgement. Can be Markdown
+    The SAFEST project is funded by the European Union - Next Generation EU, Mission 4, Component 2, Investment 1.1, CUP F53D23004230006, under the National Recovery and Resilience Plan (NRRP) – Grant
+    Assignment Decree No. 959 adopted on 30 June 2023 by the Italian Ministry of University and Research (MUR).
