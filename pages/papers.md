@@ -14,7 +14,7 @@ In: Taibi, D., Smite, D. (eds) Software Engineering and Advanced Applications. S
 
 B. Guindani, M. Camilli, L. Lestingi, M.M. Bersani. \
 **Detecting Dependability Failures in Healthcare Scenarios via Digital Shadows**\
-36th IEEE International Symposium on Software Reliability Engineering (ISSRE). IEEE, 2025
+36th IEEE International Symposium on Software Reliability Engineering (ISSRE). IEEE, 2025\
 \[[PDF](https://safest-prin.github.io\assets\papers\ISSRE_2025_camera_ready.pdf)\]
 
 
