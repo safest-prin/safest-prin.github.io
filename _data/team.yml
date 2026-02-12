@@ -2,8 +2,9 @@
 - name: Angelo Gargantini
   role: PI of the project
 #  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
-#  description: > # Can be Markdown
-#   Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+  description: > # Can be Markdown
+  Angelo Gargantini is professor at the University of Bergamo where he leads the foselab laboratory. He is in the top 2% scientists worldwide according to [Scopus](https://www.doi.org/10.17632/btchxktzyw.5) 
+  He has published more than 195 papers (scopus). More information can be found at his [homepage](https://cs.unibg.it/gargantini/)
   orcid: 0000-0002-4035-0131
 #  researchgate: researchgate_username
   googlescholar: DnHHT04AAAAJ 
@@ -25,3 +26,15 @@
 #  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
 #  description: >
 #    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+
+- name: Patrizia Scandurra
+  role: Associate professor at the University of Bergamo
+- name: Silvia Bonfanti
+  role: Researcher (RTDa) at the University of Bergamo
+- name: Asma Taheri Monfared
+  role: Assegnista at the University of Bergamo
+  googlescholar: k4QIZY0AAAAJ 
+
+
+
+  
