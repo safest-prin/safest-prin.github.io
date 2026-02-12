@@ -31,3 +31,8 @@ Guindani, Camilli, Lestingi, Bersani.\
 Accepted at the 48th IEEE/ACM International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS). ACM, 2026
 \[[DOI]()\] \[[PDF](https://safest-prin.github.io\assets\papers\ICSE_SEIS_2026_camera_ready.pdf)\]
 
+Gargantini, Angelo Michele\
+**Are (formal) models still really useful in software engineering?**
+(invited talk) In Proceedings of the 33rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2025)
+\[[DOI]()\] \[[PDF](https://safest-prin.github.io\assets\papers\WETICE_2025_Cover_Page.pdf)\]
+
