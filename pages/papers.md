@@ -9,7 +9,7 @@ Here a brief list of **published** papers presenting the work done in the SAFEST
 Pievani, F., Taheri Monfared, A., Bombarda, A., Gargantini, A.\
 **QuTiP-MRL: A Library for Multiple-Valued Reversible Logic Simulations**\
 In: Taibi, D., Smite, D. (eds) Software Engineering and Advanced Applications. SEAA 2025. Lecture Notes in Computer Science, vol 16083. Springer, Cham.\
-\[[DOI](https://doi.org/10.1007/978-3-032-04207-1_28)\] \[[PDF](https://safest-prin.github.io\assets\papers\SEAA_QUTIP.pdf)\]
+\[[DOI](https://doi.org/10.1007/978-3-032-04207-1_28)\] \[[PDF](https://safest-prin.github.io\assets\papers\SEAA_QUTIP_MRL.pdf)\]
 
 B. Guindani, M. Camilli, L. Lestingi, M.M. Bersani. \
 **Detecting Dependability Failures in Healthcare Scenarios via Digital Shadows**\
