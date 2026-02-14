@@ -4,7 +4,7 @@ title: papers
 description: Papers we have published for the project
 permalink: /papers/
 ---
-Here a brief list of papers presentig the work done in the SAFEST framework:
+Here a brief list of **published** papers presenting the work done in the SAFEST framework:
 
 Pievani, F., Taheri Monfared, A., Bombarda, A., Gargantini, A.\
 **QuTiP-MRL: A Library for Multiple-Valued Reversible Logic Simulations**\
@@ -35,4 +35,27 @@ Gargantini, Angelo Michele\
 **Are (formal) models still really useful in software engineering?**
 (invited talk) In Proceedings of the 33rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2025)
 \[[DOI]()\] \[[PDF](https://safest-prin.github.io\assets\papers\WETICE_2025_Cover_Page.pdf)\]
+
+Silvia Bonfanti, Elvinia Riccobene, Patrizia Scandurra\
+**Formal specification and validation of the MVM-Adapt system using Compositional I/O Abstract State Machines**
+Science of Computer Programming, Volume 244, September 2025, 103299
+\[[DOI](https://doi.org/10.1016/j.scico.2025.103299)\] \[[PDF](https://safest-prin.github.io\assets\papers\FormalMVM-Adapt.pdf)\]
+
+
+Chiara Braghin, Stelvio Cimato, Andrea Marchesi, Fabio Palazzesi and Elvinia Riccobene\
+**Towards Secure and Interoperable Digital Twins for Healthcare Systems**
+Poster at DTW 2025 International Workshop on Digital Twins: Mathematical Analysis, Formal Methods and Scientific Machine Learning February 19-21, 2025 - Padova, Italy
+ \[[PDF](https://safest-prin.github.io\assets\papers\riccobenePoster.pdf)\]
+
+Silvia Bonfanti, Andrea Bombarda, Angelo Gargantini, Alessandro Colombo, Gionatha Pirola\
+**BREATHE: A Digital twin-based Respiratory System Simulator for Mechanical Ventilator Testing and Training**
+Poster at DTW 2025 International Workshop on Digital Twins: Mathematical Analysis, Formal Methods and Scientific Machine Learning February 19-21, 2025 - Padova, Italy
+\[[PDF](https://safest-prin.github.io\assets\papers\POSTER_DTW_2025.pdf)\]
+
+Bruno Guindani, Livia Lestingi, Matteo Camilli, Marcello Maria Bersani\
+**Capturing Medical Knowledge into a Safe and Trustworthy Digital Twin**
+Poster at DTW 2025 International Workshop on Digital Twins: Mathematical Analysis, Formal Methods and Scientific Machine Learning February 19-21, 2025 - Padova, Italy
+ \[[PDF]()\]
+
+
 
