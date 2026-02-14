@@ -53,6 +53,6 @@ Poster at DTW 2025 International Workshop on Digital Twins: Mathematical Analysi
 \[[PDF](https://safest-prin.github.io\assets\papers\POSTER_DTW_2025.pdf)\]
 
 Bruno Guindani, Livia Lestingi, Matteo Camilli, Marcello Maria Bersani\
-**Capturing Medical Knowledge into a Safe and Trustworthy Digital Twin**
+**Capturing Medical Knowledge into a Safe and Trustworthy Digital Twin**\
 Poster at DTW 2025 International Workshop on Digital Twins: Mathematical Analysis, Formal Methods and Scientific Machine Learning February 19-21, 2025 - Padova, Italy\
- \[[PDF]()\]
+ \[[PDF](https://safest-prin.github.io\assets\papers\DTW_2025_poster.pdf)\]
